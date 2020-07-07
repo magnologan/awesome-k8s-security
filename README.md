@@ -2,7 +2,7 @@
 A curated list for Awesome and Free Kubernetes Security resources. Most of the resources are in English, the ones that aren't will be flagged as such. 
 
 ## Disclaimer
-TBD
+All the contents of this list are public and mostly free, use them for educational purposes only. Most of the tools have NOT been tested or reviewed, use them at your own risk!
 
 ## The Basics
 To understand about Kubernetes Security you first need to understand how Kubernetes works and all the components involved. Here's some links and materials to help you with that journey.
@@ -13,11 +13,13 @@ Kubernetes.io - https://kubernetes.io/
 
 Kubernetes GitHub - https://github.com/kubernetes/kubernetes
 
+### Blogs
+
+Kubernetes: Getting Started - https://azure.microsoft.com/en-us/overview/kubernetes-getting-started/
+
 ### Books
 
 Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower - https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/?cdn=disable
-
-Docker for Developers by Rafael Gomex - https://leanpub.com/dockerparadesenvolvedores (pt-BR)
 
 ### Repos
 
@@ -26,6 +28,8 @@ Kelsey Hightower - https://github.com/kelseyhightower/kubernetes-the-hard-way
 Kubernetes - Challenge - https://github.com/hector-vido/kubernetes-challenge (pt-BR)
 
 Kubernetes de K a S - https://github.com/erlonpinheiro/kubernetes_de_k_a_s (pt-BR)
+
+Kubernetes Training - https://github.com/ashishrpandey/kubernetes-training
 
 ### Trainings
 
@@ -45,21 +49,29 @@ Kubernetes Concepts Explained in 9 minutes! - https://www.youtube.com/watch?v=QJ
 
 
 ## Kubernetes Security 
-These are the main contents of this awesome list. Everything related to the security of Kubernetes, either breaking or improving it, will be added down below. If you have any other good recommendations, feel free to submit a PR. 
+These are the main contents of this awesome list. Everything related to the security of Kubernetes, either breaking or improving it, will be added down below. If you have any other good recommendations, feel free to submit a PR.
 
-### Blogs
+### Official Pages
+
+Kubernetes Security and Disclosure Information - https://kubernetes.io/docs/reference/issues-security/security/
 
 Cloud Native Security - https://kubernetes.io/docs/concepts/security/overview/
 
 Pod Security Standards - https://kubernetes.io/docs/concepts/security/pod-security-standards/
 
-Threat matrix for Kubernetes - https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
+### Blogs
+
+Kubernetes Security - https://kubernetes-security.info/
+
+Attack Matrix for Kubernetes - https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
 
 Open Sourcing the Kubernetes Security Audit - https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/
 
 ### Books
 
 Container Security by Liz Rice - https://info.aquasec.com/container-security-book
+
+Kubernetes Security by Liz Rice and Michael Hausenblas - https://info.aquasec.com/kubernetes-security
 
 ### Papers
 
@@ -83,7 +95,13 @@ Advanced Persistence Threats: The Future of Kubernetes Attacks (RSAC 2020) - htt
 
 Kubernetes Security Best Practices - Ian Lewis, Google - https://www.youtube.com/watch?v=wqsUfvRyYpw
 
+Securing Kubernetes Secrets (Cloud Next '19) - https://www.youtube.com/watch?v=DNKcRUyz4Hw
+
+Jay Beale - Attacking and Defending Kubernetes - DEF CON 27 Packet Hacking Village - https://www.youtube.com/watch?v=2fmAuR3rnBo
+
 ### Tools / Open Source projects
+
+falco - https://github.com/falcosecurity/falco
 
 kubesec - https://github.com/controlplaneio/kubesec
 
@@ -99,6 +117,14 @@ Bust-a-Kube - https://www.bustakube.com/
 
 kube-goat - https://github.com/ksoclabs/kube-goat
 
+kubetap - https://github.com/soluble-ai/kubetap
+
+Peirates - https://github.com/inguardians/peirates
+
+kube-forensics - https://github.com/keikoproj/kube-forensics
+
+k8s-security-dashboard - https://github.com/k8scop/k8s-security-dashboard
+
 CIS Kubernetes Benchmark - InSpec Profile - https://github.com/dev-sec/cis-kubernetes-benchmark
 
 ### Trainings
@@ -107,7 +133,7 @@ Secure Kubernetes - https://securekubernetes.com/
 
 Kubernetes Security (Advanced Concepts) - https://linuxacademy.com/course/kubernetes-security-advanced-concepts/
 
-### Other Lists
+### Other Awesome Lists
 
 kubepwn - https://github.com/alexivkin/kubepwn
 

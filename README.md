@@ -23,7 +23,7 @@ Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey
 
 ### Repos
 
-Kelsey Hightower - https://github.com/kelseyhightower/kubernetes-the-hard-way
+Kubernetes The Hard Way - Kelsey Hightower - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 Kubernetes - Challenge - https://github.com/hector-vido/kubernetes-challenge (pt-BR)
 
@@ -66,6 +66,10 @@ Kubernetes Security - https://kubernetes-security.info/
 Attack Matrix for Kubernetes - https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
 
 Open Sourcing the Kubernetes Security Audit - https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/
+
+Guidance on Kubernetes Threat Modeling - https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/guidance-on-kubernetes-threat-modeling
+
+Securing the 4Cs of Cloud Native - https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code
 
 ### Books
 

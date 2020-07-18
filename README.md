@@ -89,6 +89,8 @@ Attacking Kubernetes - A Guide for Administrators and Penetration Testers - http
 
 CIS Kubernetes Benchmark v1.5.0 - https://www.cisecurity.org/benchmark/kubernetes/  
 
+Kubernetes é seguro por default ou à prova de má configuração? - https://medium.com/@p0ssuidao/kubernetes-%C3%A9-seguro-por-default-ou-aprova-de-m%C3%A1-configura%C3%A7%C3%A3o-9d3bccc2f342
+
 ### Repositories
 
 Kubernetes Audit by Trail of Bits - https://github.com/trailofbits/audit-kubernetes

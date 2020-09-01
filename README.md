@@ -181,6 +181,8 @@ Advocacy Site for Kubernetes RBAC - https://github.com/mhausenblas/rbac.dev
 
 Helm-Snyk - https://github.com/snyk-labs/helm-snyk
 
+Krane - https://github.com/appvia/krane
+
 ### Trainings
 
 Secure Kubernetes - https://securekubernetes.com/

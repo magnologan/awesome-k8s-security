@@ -17,6 +17,8 @@ Kubernetes GitHub - https://github.com/kubernetes/kubernetes
 
 Kubernetes: Getting Started - https://azure.microsoft.com/en-us/overview/kubernetes-getting-started/
 
+Kubernetes 101 - https://www.aquasec.com/resources/kubernetes-101/
+
 ### Books
 
 Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower - https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/

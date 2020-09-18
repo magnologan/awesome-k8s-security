@@ -91,6 +91,8 @@ Guidance on Kubernetes Threat Modeling - https://www.trendmicro.com/vinfo/us/sec
 
 Securing the 4Cs of Cloud Native - https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code
 
+The Basics of Keeping Kubernetes Clusters Secure - Part 1 - https://www.trendmicro.com/vinfo/us/security/news/security-technology/the-basics-of-keeping-your-kubernetes-cluster-secure-part-1
+
 ### Books
 
 Container Security by Liz Rice - https://containersecurity.tech/

@@ -105,7 +105,7 @@ Kubernetes Security Whitepaper - https://raw.githubusercontent.com/kubernetes/co
 
 Kubernetes Threat Model - https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20Threat%20Model.pdf
 
-Kubernetes Attack Tree  https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model
+Kubernetes Attack Tree - https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model
 
 Attacking Kubernetes - A Guide for Administrators and Penetration Testers - https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf
 
@@ -124,6 +124,8 @@ Securing Kubernetes Secrets (Cloud Next '19) - https://www.youtube.com/watch?v=D
 Jay Beale - Attacking and Defending Kubernetes - DEF CON 27 Packet Hacking Village - https://www.youtube.com/watch?v=2fmAuR3rnBo
 
 The State of Kubernetes Security - Liz Rice - https://www.youtube.com/watch?v=_l56oUxHSio
+
+DIY Pen-Testing for Your Kubernetes Cluster - Liz Rice, Aqua Security - https://www.youtube.com/watch?v=fVqCAUJiIn0
 
 ### Presentations (Slides)
 

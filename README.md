@@ -43,11 +43,13 @@ Game of Pods (KodeKloud) - https://kodekloud.com/p/game-of-pods
 
 Uncomplicating Kubernetes (Jefferson Noronha aka LinuxTips) - https://www.youtube.com/watch?v=zz1p3gjyHgc (pt-BR)
 
-### Videos
+### Videos / Talks
 
 Kubernetes in 5 mins - https://www.youtube.com/watch?v=PH-2FfFD2PU
 
 Kubernetes Concepts Explained in 9 minutes! - https://www.youtube.com/watch?v=QJ4fODH6DXI
+
+Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO - https://www.youtube.com/watch?v=90kZRyPcRZw
 
 ### Podcasts / Videocasts
 
@@ -190,6 +192,10 @@ Advocacy Site for Kubernetes RBAC - https://github.com/mhausenblas/rbac.dev
 Helm-Snyk - https://github.com/snyk-labs/helm-snyk
 
 Krane - https://github.com/appvia/krane
+
+rakkess - https://github.com/corneliusweig/rakkess
+
+kubectl-who-can - https://github.com/aquasecurity/kubectl-who-can
 
 ### Trainings
 

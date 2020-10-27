@@ -33,6 +33,8 @@ Kubernetes de K a S - https://github.com/erlonpinheiro/kubernetes_de_k_a_s (pt-B
 
 Kubernetes Training - https://github.com/ashishrpandey/kubernetes-training
 
+Certified Kubernetes Security Specialist CKS resources repo. - https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+
 ### Trainings
 
 Introduction to Kubernetes - https://www.edx.org/course/introduction-to-kubernetes

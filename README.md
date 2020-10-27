@@ -33,8 +33,6 @@ Kubernetes de K a S - https://github.com/erlonpinheiro/kubernetes_de_k_a_s (pt-B
 
 Kubernetes Training - https://github.com/ashishrpandey/kubernetes-training
 
-Certified Kubernetes Security Specialist CKS resources repo. - https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
-
 ### Trainings
 
 Introduction to Kubernetes - https://www.edx.org/course/introduction-to-kubernetes
@@ -154,6 +152,8 @@ kube-goat - https://github.com/ksoclabs/kube-goat
 Kubernetes Goat - https://github.com/madhuakula/kubernetes-goat
 
 Kubernetes networking labs for KubeCon EU 2020 talk - https://github.com/korvus81/k8s-net-labs
+
+Certified Kubernetes Security Specialist (CKS) - https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
 
 #### Attacking
 

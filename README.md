@@ -213,6 +213,15 @@ Katacoda Kubernetes Goat Videos - https://katacoda.com/madhuakula/scenarios/kube
 
 Attacking and Auditing Docker Containers and Kubernetes Clusters - https://github.com/appsecco/attacking-and-auditing-docker-containers-and-kubernetes-clusters
 
+Linux Academy/ACloudGuru Kubernetes security course - https://acloud.guru/learn/7d2c29e7-cdb2-4f44-8744-06332f47040e
+
+SANS cloud-native security defending containers and kubernetes - https://www.sans.org/event/stay-sharp-blue-team-ops-and-cloud-dec-2020/course/cloud-native-security-defending-containers-kubernetes
+
+Getting Started With Cloud-Native Security Kubecon EU 2020 tutroial - Liz Rice, Aqua Security & Michael Hausenblas - https://youtu.be/MisS3wSds40
+
+Control Plane security training - https://control-plane.io/training/
+
+Certified Kubernetes Security Specilaist **CKS** practice (simulation) exam  - https://killer.sh/cks
 
 ### Other Awesome Lists
 

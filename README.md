@@ -101,6 +101,8 @@ Container Security by Liz Rice - https://containersecurity.tech/
 
 Kubernetes Security by Liz Rice and Michael Hausenblas - https://info.aquasec.com/kubernetes-security
 
+Learn Kubernetes Security by Kaizhe Huang and Pranjal Jumde - https://www.amazon.com/Learn-Kubernetes-Security-orchestrate-microservices-ebook/dp/B087Q9G51R
+
 ### Papers
 
 Kubernetes Security Assessment - https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20Final%20Report.pdf

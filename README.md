@@ -154,6 +154,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [CKA](https://www.cncf.io/certification/cka/)
 
+- [Certified Kubernetes Administrator (CKA) Course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)
+
 - [CKS](https://www.cncf.io/certification/cks/)
 
 - [Certified Kubernetes Security Specialist (CKS)](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
@@ -317,3 +319,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 [awesome-istio](https://github.com/mstrYoda/awesome-istio)
 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
+
+## Honk the Planet!
+
+<br>
+    <img src="https://raw.githubusercontent.com/cpanato/cpanato/main/honk.gif">
+<br>

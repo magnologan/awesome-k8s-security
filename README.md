@@ -332,6 +332,24 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
 
+## K8s Managed Services
+
+[AKS]()
+
+[EKS]()
+
+[GKE]()
+
+## K8s Alternatives
+
+[Docker Swarm]()
+
+[Apache Mesos]()
+
+[Hashicorp Nomad]()
+
+[Red Hat Openshift]()
+
 ## Honk the Planet!
 
 <br>

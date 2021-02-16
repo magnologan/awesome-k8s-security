@@ -108,6 +108,22 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Blogs and Articles
 
+[Risk8s Business: Risk Analysis of Kubernetes Clusters](https://tldrsec.com/guides/kubernetes/)
+
+[How to Set Up and Manage Logs with Kubernetes](https://iamondemand.com/blog/how-to-set-up-and-manage-logs-with-kubernetes/)
+
+[The Current State of Kubernetes Threat Modelling](https://www.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
+
+[Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
+
+[The Basics of Keeping Kubernetes Clusters Secure](https://www.trendmicro.com/vinfo/us/security/news/security-technology/the-basics-of-keeping-your-kubernetes-cluster-secure-part-1)
+
+[The Basics of Keeping Kubernetes Cluster Secure: Worker Nodes and Related Components](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/the-basics-of-keeping-kubernetes-cluster-secure-worker-nodes-and-related-components)
+
+[How to Secure Your Kubernetes Cluster](https://containerjournal.com/topics/container-security/how-to-secure-your-kubernetes-cluster/)
+
+[Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
+
 [Kubernetes Security](https://kubernetes-security.info/)
 
 [Introducing Kubernetes Goat](https://blog.madhuakula.com/introducing-kubernetes-goat-8624f6d70e9e)
@@ -118,35 +134,23 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
 
-[Protecting Against Kubernetes Threats: Chapter 1 - Initial Access](https://www.stackrox.com/post/2020/06/protecting-against-kubernetes-threats-chapter-1-initial-access/)
+[Protecting Kubernetes: The Kubernetes Attack Matrix and How to Mitigate Its Threats](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Whitepaper-Kubernetes_Attack_Matrix_and_Mitigation.pdf)
 
 [Securing the 4Cs of Cloud Native](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code)
 
-[The Basics of Keeping Kubernetes Clusters Secure](https://www.trendmicro.com/vinfo/us/security/news/security-technology/the-basics-of-keeping-your-kubernetes-cluster-secure-part-1)
-
-[The Basics of Keeping Kubernetes Cluster Secure: Worker Nodes and Related Components](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/the-basics-of-keeping-kubernetes-cluster-secure-worker-nodes-and-related-components)
-
-[How to Secure Your Kubernetes Cluster](https://containerjournal.com/topics/container-security/how-to-secure-your-kubernetes-cluster/)
-
-[Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
-
-[Risk8s Business: Risk Analysis of Kubernetes Clusters](https://tldrsec.com/guides/kubernetes/)
-
-[How to Set Up and Manage Logs with Kubernetes](https://iamondemand.com/blog/how-to-set-up-and-manage-logs-with-kubernetes/)
-
-[The Current State of Kubernetes Threat Modelling](https://www.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
-
 ## Books
 
-[Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
-
-[Container Security by Liz Rice](https://containersecurity.tech/)
-
-[Kubernetes Security by Liz Rice and Michael Hausenblas](https://info.aquasec.com/kubernetes-security)
+[Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)
 
 [Learn Kubernetes Security by Kaizhe Huang and Pranjal Jumde](https://www.amazon.com/Learn-Kubernetes-Security-orchestrate-microservices-ebook/dp/B087Q9G51R)
 
-[Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)
+[Kubernetes Security by Liz Rice and Michael Hausenblas](https://info.aquasec.com/kubernetes-security)
+
+[Container Security by Liz Rice](https://containersecurity.tech/)
+
+[Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
+
+[Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications by Bilgin Ibryam & Roland Huß](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 
 ## Certifications
 

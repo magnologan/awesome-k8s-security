@@ -42,9 +42,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes The Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-[Kubernetes Challenge](https://github.com/hector-vido/kubernetes-challenge) (pt-BR)
+[Kubernetes Challenge](https://github.com/hector-vido/kubernetes-challenge) 🇧🇷
 
-[Kubernetes de K a S - Erlon Pinheiro](https://github.com/erlonpinheiro/kubernetes_de_k_a_s) (pt-BR)
+[Kubernetes de K a S - Erlon Pinheiro](https://github.com/erlonpinheiro/kubernetes_de_k_a_s) 🇧🇷
 
 [Kubernetes Training](https://github.com/ashishrpandey/kubernetes-training)
 
@@ -54,7 +54,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Game of Pods (KodeKloud)](https://kodekloud.com/p/game-of-pods)
 
-[Uncomplicating Kubernetes (Jefferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) (pt-BR)
+[Uncomplicating Kubernetes (Jefferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) 🇧🇷
 
 ## Official Pages
 
@@ -104,9 +104,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Security 101: Best Practices to Secure your Cluster](https://www.youtube.com/watch?v=d-pIWfDaZK8&t=3408s)
 
-[Kubernetes Security 101: OWASP Natal Virtual Meeting](https://youtu.be/CF-ScdbhU5o)(pt-BR)
+[Kubernetes Security 101: OWASP Natal Virtual Meeting](https://youtu.be/CF-ScdbhU5o) 🇧🇷
 
-### Blogs and Articles
+## Blogs and Articles
 
 [Kubernetes Security](https://kubernetes-security.info/)
 
@@ -130,7 +130,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
 
-### Books
+## Books
 
 [Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
 
@@ -142,7 +142,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)
 
-### Certifications
+## Certifications
 
 - [CKAD](https://www.cncf.io/certification/ckad/)
 
@@ -150,11 +150,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [CKS](https://www.cncf.io/certification/cks/)
 
-### CVEs
+## CVEs
 
 [CVE-2018-18264: Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
 
-### Slides
+## Slides
 
 [Communication is Key - Understanding Kubernetes Networking (KubeCon EU 2020)](https://static.sched.com/hosted_files/kccnceu20/3d/Communication_is_Key.pdf)
 
@@ -164,7 +164,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Help! My Cluster Is On The Internet!](https://bit.ly/SamK8sSec)
 
-### Trainings
+## Trainings
 
 [Secure Kubernetes](https://securekubernetes.com/)
 
@@ -188,9 +188,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Exam Simulator](https://killer.sh/cks)
 
-### Repositories 
+## Repositories 
 
-#### Learning
+### Learning
 
 [Bust-a-Kube](https://www.bustakube.com/)
 
@@ -204,13 +204,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [CNCF Security Audits](https://github.com/magnologan/cncf-security-audits)
 
-#### Attacking
+### Attacking
 
 [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 [Peirates](https://github.com/inguardians/peirates)
 
-#### Defending
+### Defending
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 
@@ -248,7 +248,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
 
-### Papers
+## Papers
 
 [Kubernetes Security Assessment](https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20Final%20Report.pdf)
 
@@ -262,9 +262,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [CIS Kubernetes Benchmark v1.5.0](https://www.cisecurity.org/benchmark/kubernetes/)
 
-[Kubernetes é seguro por default ou à prova de má configuração?](https://medium.com/@p0ssuidao/kubernetes-%C3%A9-seguro-por-default-ou-aprova-de-m%C3%A1-configura%C3%A7%C3%A3o-9d3bccc2f342) (pt-BR)
+[Kubernetes é seguro por default ou à prova de má configuração?](https://medium.com/@p0ssuidao/kubernetes-%C3%A9-seguro-por-default-ou-aprova-de-m%C3%A1-configura%C3%A7%C3%A3o-9d3bccc2f342) 🇧🇷
 
-### Podcasts
+## Podcasts
 
 [TGI Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
 
@@ -276,11 +276,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PodCTL - Enterprise Kubernetes](https://www.podctl.com/)
 
-### Jobs
+## Jobs
 
 [Kube Careers](https://kube.careers/)
 
-### Community
+## Community
 
 [Kubernetes Slack](https://kubernetes.slack.com)
 

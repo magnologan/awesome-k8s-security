@@ -1,10 +1,10 @@
-# Awesome Kubernetes (K8s) Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.  
-
 <a href="https://kubernetes.io/">
     <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"
          alt="Kubernetes logo" title="Kubernetes" height="100" width="100" />
 </a></br>
+
+# Awesome Kubernetes (K8s) Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.  
 
 # Disclaimer
 Most of the resources are in English, the ones that aren't will be flagged as such. Most of the contents of this list are public free, please use them for educational purposes only!
@@ -20,7 +20,7 @@ These are the main contents of this awesome list. Everything related to the secu
 - [📰 Blogs and Articles](#blogs-articles)
 - [🗒️ Books](#books)
 - [📆 Certifications](#certifications)
-- [CVEs](#cves)
+- [🔥 CVEs](#cves)
 - [📑 Slides](#slides)
 - [🧪 Trainings](#trainings)
 - [🐾 Repositories](#repositories)
@@ -125,6 +125,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [The Basics of Keeping Kubernetes Clusters Secure](https://www.trendmicro.com/vinfo/us/security/news/security-technology/the-basics-of-keeping-your-kubernetes-cluster-secure-part-1)
 
 [The Basics of Keeping Kubernetes Cluster Secure: Worker Nodes and Related Components](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/the-basics-of-keeping-kubernetes-cluster-secure-worker-nodes-and-related-components)
+
+[Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
 
 ### Books
 

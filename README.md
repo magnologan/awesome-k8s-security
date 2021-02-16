@@ -7,12 +7,12 @@
 A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos.  
 
 # Disclaimer
-Most of the resources are in English, the ones that aren't will be flagged as such. Most of the contents of this list are public free, please use them for educational purposes only!
+Most of the resources are in English, the ones that aren't will be flagged as such. All the content in this list is public and free, please use them for educational purposes only!
 
 Not all the tools have been tested or reviewed, use them at your own risk! Also, I don't consider myself a K8s Security expert, I'm just learning and helping others learn along with me. Thanks!
 
 # Contents
-These are the main contents of this awesome list. Everything related to the security of Kubernetes, either breaking or improving it, will be added down below. If you have any other good recommendations, feel free to submit a PR!
+These are the main topics of this Awesome Kubernetes (K8s) Security List. Everything related to the Security of Kubernetes (and its components such as CoreDNS, etcd) either for learning, breaking or defending it, will be added down below. If you have any other good links or recommendations, feel free to submit a PR!
 
 - [💊 The Basics](#basics)
 - [💼 Official Pages](#official)
@@ -319,6 +319,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Slack](https://kubernetes.slack.com)
 
 [CNCF Slack](https://cloud-native.slack.com)
+
+[Kubernetes Canada Slack](https://k8scanadaslack.herokuapp.com/)
 
 [kubepwn](https://github.com/alexivkin/kubepwn)
 

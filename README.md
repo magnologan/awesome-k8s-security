@@ -1,5 +1,5 @@
 <a href="https://kubernetes.io/">
-    <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"
+    <img src="https://github.com/magnologan/awesome-k8s-security/blob/master/logo.png"
          alt="Kubernetes logo" title="Kubernetes" height="100" width="100" />
 </a></br>
 
@@ -323,5 +323,5 @@ To understand about Kubernetes Security you first need to understand the basics 
 ## Honk the Planet!
 
 <br>
-    <img src="https://raw.githubusercontent.com/cpanato/cpanato/main/honk.gif">
+    <img src="https://github.com/magnologan/awesome-k8s-security/blob/master/honk.gif">
 <br>

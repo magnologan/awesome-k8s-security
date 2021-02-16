@@ -126,6 +126,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [The Basics of Keeping Kubernetes Cluster Secure: Worker Nodes and Related Components](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/the-basics-of-keeping-kubernetes-cluster-secure-worker-nodes-and-related-components)
 
+[How to Secure Your Kubernetes Cluster](https://containerjournal.com/topics/container-security/how-to-secure-your-kubernetes-cluster/)
+
 [Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
 
 ### Books

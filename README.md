@@ -130,6 +130,12 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
 
+[Risk8s Business: Risk Analysis of Kubernetes Clusters](https://tldrsec.com/guides/kubernetes/)
+
+[How to Set Up and Manage Logs with Kubernetes](https://iamondemand.com/blog/how-to-set-up-and-manage-logs-with-kubernetes/)
+
+[The Current State of Kubernetes Threat Modelling](https://www.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
+
 ## Books
 
 [Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
@@ -150,7 +156,17 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [CKS](https://www.cncf.io/certification/cks/)
 
+- [Certified Kubernetes Security Specialist (CKS)](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+
+- [CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist)
+
+- [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
+
+- [References for CKS Exam Objectives](https://github.com/abdennour/certified-kubernetes-security-specialist)
+
 ## CVEs
+
+[Exploring container security: Vulnerability management in open-source Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-vulnerability-management-in-open-source-kubernetes)
 
 [CVE-2018-18264: Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
 
@@ -188,6 +204,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Exam Simulator](https://killer.sh/cks)
 
+[Kubernetes Security Workshop](https://github.com/scotty-c/kubernetes-security-workshop)
+
+[Linux Academy - Kubernetes Security](https://github.com/linuxacademy/content-kubernetes-security)
+
 ## Repositories 
 
 ### Learning
@@ -199,8 +219,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 
 [Kubernetes Networking Labs for KubeCon EU 2020 Talk](https://github.com/korvus81/k8s-net-labs)
-
-[Certified Kubernetes Security Specialist (CKS)](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
 [CNCF Security Audits](https://github.com/magnologan/cncf-security-audits)
 
@@ -247,6 +265,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 [rakkess](https://github.com/corneliusweig/rakkess)
 
 [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
+
+[Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
+
+[External Secrets](https://github.com/external-secrets/external-secrets)
 
 ## Papers
 

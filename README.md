@@ -214,9 +214,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Linux Academy - Kubernetes Security](https://github.com/linuxacademy/content-kubernetes-security)
 
-## Repositories 
+## Repositories / Tools
 
 ### Learning
+
+[kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+
+[krew](https://krew.sigs.k8s.io/docs/user-guide/setup/install/)
 
 [Bust-a-Kube](https://www.bustakube.com/)
 
@@ -237,6 +241,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 ### Defending
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
+
+[kubeaudit](https://github.com/Shopify/kubeaudit)
 
 [falco](https://github.com/falcosecurity/falco)
 
@@ -278,19 +284,19 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Papers
 
-[Kubernetes Security Assessment](https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20Final%20Report.pdf)
+[Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)
 
-[Kubernetes Security Whitepaper](https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20White%20Paper.pdf)
+[Kubernetes Security Whitepaper - June 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)
 
-[Kubernetes Threat Model](https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/Kubernetes%20Threat%20Model.pdf)
+[Kubernetes Threat Model - June 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Threat%20Model.pdf)
 
 [Kubernetes Attack Tree](https://github.com/cncf/financial-user-group/tree/master/projects/k8s-threat-model)
 
-[Attacking Kubernetes - A Guide for Administrators and Penetration Testers](https://raw.githubusercontent.com/kubernetes/community/master/wg-security-audit/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf)
+[Attacking Kubernetes - A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf)
 
-[CIS Kubernetes Benchmark v1.5.0](https://www.cisecurity.org/benchmark/kubernetes/)
+[CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes/)
 
-[Kubernetes é seguro por default ou à prova de má configuração?](https://medium.com/@p0ssuidao/kubernetes-%C3%A9-seguro-por-default-ou-aprova-de-m%C3%A1-configura%C3%A7%C3%A3o-9d3bccc2f342) 🇧🇷
+[Kubernetes é seguro por default ou à prova de má configuração?](https://p0ssuidao.medium.com/kubernetes-%C3%A9-seguro-por-default-ou-aprova-de-m%C3%A1-configura%C3%A7%C3%A3o-9d3bccc2f342) 🇧🇷
 
 ## Podcasts
 

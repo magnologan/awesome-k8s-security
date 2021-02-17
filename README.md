@@ -138,6 +138,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Securing the 4Cs of Cloud Native](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code)
 
+[CVE-2018-18264 Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)
@@ -174,7 +176,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Exploring container security: Vulnerability management in open-source Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-vulnerability-management-in-open-source-kubernetes)
 
-[CVE-2018-18264: Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
+[CVE-2019-11247](https://nvd.nist.gov/vuln/detail/CVE-2019-11247)
+
+[CVE-2019-11249](https://nvd.nist.gov/vuln/detail/CVE-2019-11249)
+
+[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264)
 
 ## Slides
 
@@ -316,11 +322,20 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Community
 
+### Slacks
+
 [Kubernetes Slack](https://kubernetes.slack.com)
 
 [CNCF Slack](https://cloud-native.slack.com)
 
 [Kubernetes Canada Slack](https://k8scanadaslack.herokuapp.com/)
+
+### Newsletters
+
+[kubelist](https://kubelist.com/) 
+[LWKD](http://lwkd.info/) 
+
+### Other Awesome Lists
 
 [kubepwn](https://github.com/alexivkin/kubepwn)
 
@@ -332,23 +347,23 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
 
-## K8s Managed Services
+### K8s Managed Services
 
-[AKS]()
+[AKS](https://docs.microsoft.com/en-us/azure/aks/)
 
-[EKS]()
+[EKS](https://aws.amazon.com/eks/)
 
-[GKE]()
+[GKE](https://cloud.google.com/kubernetes-engine/)
 
-## K8s Alternatives
+### K8s Alternatives
 
-[Docker Swarm]()
+[Docker Swarm](https://docs.docker.com/get-started/swarm-deploy/)
 
-[Apache Mesos]()
+[Apache Mesos](https://mesos.apache.org/)
 
-[Hashicorp Nomad]()
+[HashiCorp Nomad](https://www.nomadproject.io/)
 
-[Red Hat Openshift]()
+[Red Hat Openshift](https://www.openshift.com/)
 
 ## Honk the Planet!
 

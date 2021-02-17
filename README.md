@@ -316,10 +316,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PodCTL - Enterprise Kubernetes](https://www.podctl.com/)
 
-## Jobs
-
-[Kube Careers](https://kube.careers/)
-
 ## Community
 
 ### Slacks
@@ -333,19 +329,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 ### Newsletters
 
 [kubelist](https://kubelist.com/) 
-[LWKD](http://lwkd.info/) 
+[LWKD](http://lwkd.info/)
 
-### Other Awesome Lists
+### Jobs
 
-[kubepwn](https://github.com/alexivkin/kubepwn)
-
-[awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)
-
-[awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-
-[awesome-istio](https://github.com/mstrYoda/awesome-istio)
-
-[awesome-falco](https://github.com/developer-guy/awesome-falco)
+[Kube Careers](https://kube.careers/)
 
 ### K8s Managed Services
 
@@ -364,6 +352,18 @@ To understand about Kubernetes Security you first need to understand the basics 
 [HashiCorp Nomad](https://www.nomadproject.io/)
 
 [Red Hat Openshift](https://www.openshift.com/)
+
+### Other Awesome Lists
+
+[kubepwn](https://github.com/alexivkin/kubepwn)
+
+[awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)
+
+[awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+[awesome-istio](https://github.com/mstrYoda/awesome-istio)
+
+[awesome-falco](https://github.com/developer-guy/awesome-falco)
 
 ## Honk the Planet!
 

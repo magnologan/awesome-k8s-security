@@ -140,6 +140,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [CVE-2018-18264 Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
 
+[Certified Kubernetes Security Specialist (CKS) exam guide](https://medium.com/cooking-with-azure/certified-kubernetes-security-specialist-cks-exam-guide-a8fc2b4c47ea)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)

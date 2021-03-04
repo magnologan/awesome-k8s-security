@@ -86,6 +86,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Talks and Videos
 
+[Compromising Kubernetes Cluster by Exploiting RBAC Permissions - Eviatar Gerzi, CyberArk (RSA 2020)](https://www.youtube.com/watch?v=1LMo0CftVC4)
+
 [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw)
 
 [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO  (Extended Version)](https://vimeo.com/245778144/4d1d597c5e)
@@ -107,6 +109,12 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Security 101: OWASP Natal Virtual Meeting](https://youtu.be/CF-ScdbhU5o) 🇧🇷
 
 ## Blogs and Articles
+
+[Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+
+[Using Kubelet Client to Attack the Kubernetes Cluster](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
+
+[Eight Ways to Create a Pod](https://www.cyberark.com/resources/threat-research-blog/eight-ways-to-create-a-pod)
 
 [Risk8s Business: Risk Analysis of Kubernetes Clusters](https://tldrsec.com/guides/kubernetes/)
 
@@ -242,11 +250,15 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ### Attacking
 
+[kubeletctl](https://github.com/cyberark/kubeletctl)
+
 [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 [Peirates](https://github.com/inguardians/peirates)
 
 ### Defending
+
+[KubiScan](https://github.com/cyberark/KubiScan)
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 

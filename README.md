@@ -110,6 +110,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Blogs and Articles
 
+[Kubernetes securityContext: Linux capabilities in Kubernetes](https://snyk.io/blog/kubernetes-securitycontext-linux-capabilities/)
+
+[10 Kubernetes Security Context settings you should understand](https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand/)
+
 [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
 
 [Using Kubelet Client to Attack the Kubernetes Cluster](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)

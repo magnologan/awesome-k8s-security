@@ -388,6 +388,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
 
+[awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+
 ## Honk the Planet!
 
 <br>

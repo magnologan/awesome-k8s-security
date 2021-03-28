@@ -110,6 +110,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Blogs and Articles
 
+[Container Security: Examining Potential Threats to the Container Environment](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
+
 [Kubernetes securityContext: Linux capabilities in Kubernetes](https://snyk.io/blog/kubernetes-securitycontext-linux-capabilities/)
 
 [10 Kubernetes Security Context settings you should understand](https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand/)

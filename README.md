@@ -220,7 +220,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Katacoda Kubernetes Goat Videos](https://katacoda.com/madhuakula/scenarios/kubernetes-goat)
 
-[Attacking and Auditing Docker Containers and Kubernetes Clusters](https://github.com/appsecco/attacking-and-auditing-docker-containers-and-kubernetes-clusters)
+[Attacking and Auditing Docker Containers and Kubernetes Clusters](https://github.com/Kloudle/attacking-and-auditing-docker-containers-and-kubernetes-clusters-training)
 
 [A Cloud Guru Kubernetes Security](https://acloudguru.com/course/kubernetes-security)
 

@@ -310,6 +310,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KubeLinter](https://github.com/stackrox/kube-linter)
 
+[Open Policy Agent](https://www.openpolicyagent.org)
+
+[Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+
 [Kyverno](https://kyverno.io)
 
 
@@ -391,6 +395,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
 
 [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+
+[awesome-opa](https://github.com/anderseknert/awesome-opa)
 
 ## Honk the Planet!
 

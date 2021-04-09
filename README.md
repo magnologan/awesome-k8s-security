@@ -116,6 +116,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [10 Kubernetes Security Context settings you should understand](https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand/)
 
+[Kubesploit: A New Offensive Tool for Testing Containerized Environments](https://www.cyberark.com/resources/threat-research-blog/kubesploit-a-new-offensive-tool-for-testing-containerized-environments)  
+
 [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
 
 [Using Kubelet Client to Attack the Kubernetes Cluster](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
@@ -255,6 +257,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [CNCF Security Audits](https://github.com/magnologan/cncf-security-audits)
 
 ### Attacking
+
+[kubesploit](https://github.com/cyberark/kubesploit)  
 
 [kubeletctl](https://github.com/cyberark/kubeletctl)
 

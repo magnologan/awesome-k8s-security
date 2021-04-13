@@ -194,11 +194,20 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Exploring container security: Vulnerability management in open-source Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-vulnerability-management-in-open-source-kubernetes)
 
+[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264)
+
 [CVE-2019-11247](https://nvd.nist.gov/vuln/detail/CVE-2019-11247)
 
 [CVE-2019-11249](https://nvd.nist.gov/vuln/detail/CVE-2019-11249)
 
-[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264)
+[CVE-2020-8558 PoC](https://github.com/tabbysable/POC-2020-8558)
+
+[CVE-2020-8559 PoC](https://github.com/tabbysable/POC-2020-8559)
+
+[CVE-2020-8559 PoC 2](https://github.com/tdwyer/CVE-2020-8559)
+
+[CVE-2020-10749 PoC](https://github.com/knqyf263/CVE-2020-10749)
+
 
 ## Slides
 

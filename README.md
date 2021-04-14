@@ -16,8 +16,8 @@ These are the main topics of this Awesome Kubernetes (K8s) Security List. Everyt
 
 - [💊 The Basics](#basics)
 - [💼 Official Pages](#official)
-- [📹 Talks and Videos](#videos)
-- [📰 Blogs and Articles](#blogs-articles)
+- [📹 Talks and Videos](#talks-and-videos)
+- [📰 Blogs and Articles](#blogs-and-articles)
 - [🗒️ Books](#books)
 - [📆 Certifications](#certifications)
 - [🔥 CVEs](#cves)

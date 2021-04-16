@@ -108,6 +108,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Security 101: OWASP Natal Virtual Meeting](https://youtu.be/CF-ScdbhU5o) 🇧🇷
 
+[Rory's McCune **@raesene** Kubernetes Security Lab | Rawkode Live workshop](https://youtu.be/Srd1qqxDReA)
+
 ## Blogs and Articles
 
 [Container Security: Examining Potential Threats to the Container Environment](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
@@ -241,11 +243,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Control Plane Security Training](https://control-plane.io/training/)
 
-[Kubernetes Exam Simulator](https://killer.sh/cks)
+[Kubernetes CKS Exam Simulator](https://killer.sh/cks)
 
 [Kubernetes Security Workshop](https://github.com/scotty-c/kubernetes-security-workshop)
 
 [Linux Academy - Kubernetes Security](https://github.com/linuxacademy/content-kubernetes-security)
+
+[Mumshad's KodeCloud Certified kubernetes security specialist **cks**](https://kodekloud.com/p/certified-kubernetes-security-specialist-cks)
 
 ## Repositories / Tools
 
@@ -264,6 +268,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Networking Labs for KubeCon EU 2020 Talk](https://github.com/korvus81/k8s-net-labs)
 
 [CNCF Security Audits](https://github.com/magnologan/cncf-security-audits)
+
+[Kube Security Lab: Learn from Kuberenetes attacks using Ansible and KinD](https://github.com/raesene/kube_security_lab)
 
 ### Attacking
 

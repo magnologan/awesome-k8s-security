@@ -54,6 +54,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Game of Pods (KodeKloud)](https://kodekloud.com/p/game-of-pods)
 
+[Gist of Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6)
+
 [Uncomplicating Kubernetes (Jefferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) 🇧🇷
 
 ## Official Pages
@@ -68,15 +70,15 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
 
-[CNCF SIG Security](https://github.com/cncf/sig-security)
+[CNCF STAG - Security Technical Advisory Group](https://github.com/cncf/tag-security)
 
-[CNCF SIG Security Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/edit)
+[CNCF STAG Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/edit)
 
-[CNCF SIG Security Mailing List](https://lists.cncf.io/g/cncf-sig-security)
+[CNCF STAG Mailing List](https://lists.cncf.io/g/cncf-tag-security)
 
 [Kubernetes SIG Security](https://github.com/kubernetes/community/tree/master/sig-security)
 
-[Kubernetes SIG ecurity Meeting Notes](https://docs.google.com/document/d/1GgmmNYN88IZ2v2NBiO3gdU8Riomm0upge_XNVxEYXp0/edit)
+[Kubernetes SIG Security Meeting Notes](https://docs.google.com/document/d/1GgmmNYN88IZ2v2NBiO3gdU8Riomm0upge_XNVxEYXp0/edit)
 
 [Kubernetes SIG Auth (Authorization, Authentication, and Cluster Security Policy)](https://github.com/kubernetes/community/tree/master/sig-auth)
 
@@ -111,6 +113,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Rory's McCune **@raesene** Kubernetes Security Lab | Rawkode Live workshop](https://youtu.be/Srd1qqxDReA)
 
 ## Blogs and Articles
+
+[Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
 
 [Container Security: Examining Potential Threats to the Container Environment](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
 
@@ -171,6 +175,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Container Security by Liz Rice](https://containersecurity.tech/)
 
 [Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
+
+[The Kubernetes Book by Nigel Poulton and Pushkar Joglekar](https://www.amazon.com/dp/B072TS9ZQZ)
 
 [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications by Bilgin Ibryam & Roland Huß](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 

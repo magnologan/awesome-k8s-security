@@ -164,6 +164,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Certified Kubernetes Security Specialist (CKS) exam guide](https://medium.com/cooking-with-azure/certified-kubernetes-security-specialist-cks-exam-guide-a8fc2b4c47ea)
 
+[A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)

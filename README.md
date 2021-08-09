@@ -23,7 +23,7 @@ These are the main topics of this Awesome Kubernetes (K8s) Security List. Everyt
 - [🔥 CVEs](#cves)
 - [📑 Slides](#slides)
 - [🧪 Trainings](#trainings)
-- [🐾 Repositories](#repositories-tools)
+- [🐾 Repositories](#repositories--tools)
 - [📂 Papers](#papers)
 - [🎤 Podcasts](#podcasts)
 - [🧰 Jobs](#jobs)

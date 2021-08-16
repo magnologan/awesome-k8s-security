@@ -14,8 +14,8 @@ Not all the tools have been tested or reviewed, use them at your own risk! Also,
 # Contents
 These are the main topics of this Awesome Kubernetes (K8s) Security List. Everything related to the Security of Kubernetes (and its components such as CoreDNS, etcd) either for learning, breaking or defending it, will be added down below. If you have any other good links or recommendations, feel free to submit a PR!
 
-- [💊 The Basics](#basics)
-- [💼 Official Pages](#official)
+- [💊 The Basics](#the-basics)
+- [💼 Official Pages](#official-pages)
 - [📹 Talks and Videos](#talks-and-videos)
 - [📰 Blogs and Articles](#blogs-and-articles)
 - [🗒️ Books](#books)
@@ -23,7 +23,7 @@ These are the main topics of this Awesome Kubernetes (K8s) Security List. Everyt
 - [🔥 CVEs](#cves)
 - [📑 Slides](#slides)
 - [🧪 Trainings](#trainings)
-- [🐾 Repositories](#repositories)
+- [🐾 Repositories](#repositories--tools)
 - [📂 Papers](#papers)
 - [🎤 Podcasts](#podcasts)
 - [🧰 Jobs](#jobs)

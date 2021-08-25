@@ -282,6 +282,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [External Secrets](https://github.com/external-secrets/external-secrets)
 
+[kubescape](https://github.com/armosec/kubescape)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)

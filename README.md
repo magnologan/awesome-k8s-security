@@ -182,6 +182,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications by Bilgin Ibryam & Roland Huß](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 
+[Securing Kubernetes Secrets by Alex Soto Bueno and Andrew Block](https://www.manning.com/books/securing-kubernetes-secrets)
+
+[Kubernetes in Action, Second Edition by Marko Lukša](https://www.manning.com/books/kubernetes-in-action-second-edition)
+
 ## Certifications
 
 - [CKAD](https://www.cncf.io/certification/ckad/)

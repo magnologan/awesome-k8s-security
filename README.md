@@ -58,6 +58,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Uncomplicating Kubernetes (Jeferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) 🇧🇷
 
+[Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
+
 ## Official Pages
 
 [Kubernetes.io](https://kubernetes.io/)

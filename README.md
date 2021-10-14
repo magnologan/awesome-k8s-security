@@ -14,16 +14,16 @@ Not all the tools have been tested or reviewed, use them at your own risk! Also,
 # Contents
 These are the main topics of this Awesome Kubernetes (K8s) Security List. Everything related to the Security of Kubernetes (and its components such as CoreDNS, etcd) either for learning, breaking or defending it, will be added down below. If you have any other good links or recommendations, feel free to submit a PR!
 
-- [💊 The Basics](#basics)
-- [💼 Official Pages](#official)
-- [📹 Talks and Videos](#videos)
-- [📰 Blogs and Articles](#blogs-articles)
+- [💊 The Basics](#the-basics)
+- [💼 Official Pages](#official-pages)
+- [📹 Talks and Videos](#talks-and-videos)
+- [📰 Blogs and Articles](#blogs-and-articles)
 - [🗒️ Books](#books)
 - [📆 Certifications](#certifications)
 - [🔥 CVEs](#cves)
 - [📑 Slides](#slides)
 - [🧪 Trainings](#trainings)
-- [🐾 Repositories](#repositories)
+- [🐾 Repositories](#repositories--tools)
 - [📂 Papers](#papers)
 - [🎤 Podcasts](#podcasts)
 - [🧰 Jobs](#jobs)
@@ -54,7 +54,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Game of Pods (KodeKloud)](https://kodekloud.com/p/game-of-pods)
 
-[Uncomplicating Kubernetes (Jefferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) 🇧🇷
+[Gist of Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6)
+
+[Uncomplicating Kubernetes (Jeferson Noronha aka LinuxTips)](https://www.youtube.com/watch?v=zz1p3gjyHgc) 🇧🇷
+
+[Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 
 ## Official Pages
 
@@ -68,15 +72,15 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
 
-[CNCF SIG Security](https://github.com/cncf/sig-security)
+[CNCF STAG - Security Technical Advisory Group](https://github.com/cncf/tag-security)
 
-[CNCF SIG Security Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/edit)
+[CNCF STAG Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/edit)
 
-[CNCF SIG Security Mailing List](https://lists.cncf.io/g/cncf-sig-security)
+[CNCF STAG Mailing List](https://lists.cncf.io/g/cncf-tag-security)
 
 [Kubernetes SIG Security](https://github.com/kubernetes/community/tree/master/sig-security)
 
-[Kubernetes SIG ecurity Meeting Notes](https://docs.google.com/document/d/1GgmmNYN88IZ2v2NBiO3gdU8Riomm0upge_XNVxEYXp0/edit)
+[Kubernetes SIG Security Meeting Notes](https://docs.google.com/document/d/1GgmmNYN88IZ2v2NBiO3gdU8Riomm0upge_XNVxEYXp0/edit)
 
 [Kubernetes SIG Auth (Authorization, Authentication, and Cluster Security Policy)](https://github.com/kubernetes/community/tree/master/sig-auth)
 
@@ -85,6 +89,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Security Audit 2021 RFP](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2021/RFP.md)
 
 ## Talks and Videos
+
+[Compromising Kubernetes Cluster by Exploiting RBAC Permissions - Eviatar Gerzi, CyberArk (RSA 2020)](https://www.youtube.com/watch?v=1LMo0CftVC4)
 
 [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw)
 
@@ -106,7 +112,25 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes Security 101: OWASP Natal Virtual Meeting](https://youtu.be/CF-ScdbhU5o) 🇧🇷
 
+[Rory's McCune **@raesene** Kubernetes Security Lab | Rawkode Live workshop](https://youtu.be/Srd1qqxDReA)
+
 ## Blogs and Articles
+
+[Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
+
+[Container Security: Examining Potential Threats to the Container Environment](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
+
+[Kubernetes securityContext: Linux capabilities in Kubernetes](https://snyk.io/blog/kubernetes-securitycontext-linux-capabilities/)
+
+[10 Kubernetes Security Context settings you should understand](https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand/)
+
+[Kubesploit: A New Offensive Tool for Testing Containerized Environments](https://www.cyberark.com/resources/threat-research-blog/kubesploit-a-new-offensive-tool-for-testing-containerized-environments)  
+
+[Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+
+[Using Kubelet Client to Attack the Kubernetes Cluster](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
+
+[Eight Ways to Create a Pod](https://www.cyberark.com/resources/threat-research-blog/eight-ways-to-create-a-pod)
 
 [Risk8s Business: Risk Analysis of Kubernetes Clusters](https://tldrsec.com/guides/kubernetes/)
 
@@ -138,6 +162,12 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Securing the 4Cs of Cloud Native](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code)
 
+[CVE-2018-18264 Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
+
+[Certified Kubernetes Security Specialist (CKS) exam guide](https://medium.com/cooking-with-azure/certified-kubernetes-security-specialist-cks-exam-guide-a8fc2b4c47ea)
+
+[A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)
@@ -150,7 +180,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes: Up and Running, Second Edition by Brendan Burns, Joe Beda and Kelsey Hightower](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
 
+[The Kubernetes Book by Nigel Poulton and Pushkar Joglekar](https://www.amazon.com/dp/B072TS9ZQZ)
+
 [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications by Bilgin Ibryam & Roland Huß](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
+
+[Securing Kubernetes Secrets by Alex Soto Bueno and Andrew Block](https://www.manning.com/books/securing-kubernetes-secrets)
+
+[Kubernetes in Action, Second Edition by Marko Lukša](https://www.manning.com/books/kubernetes-in-action-second-edition)
 
 ## Certifications
 
@@ -174,7 +210,20 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Exploring container security: Vulnerability management in open-source Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-vulnerability-management-in-open-source-kubernetes)
 
-[CVE-2018-18264: Privilege escalation through Kubernetes dashboard](https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard)
+[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264)
+
+[CVE-2019-11247](https://nvd.nist.gov/vuln/detail/CVE-2019-11247)
+
+[CVE-2019-11249](https://nvd.nist.gov/vuln/detail/CVE-2019-11249)
+
+[CVE-2020-8558 PoC](https://github.com/tabbysable/POC-2020-8558)
+
+[CVE-2020-8559 PoC](https://github.com/tabbysable/POC-2020-8559)
+
+[CVE-2020-8559 PoC 2](https://github.com/tdwyer/CVE-2020-8559)
+
+[CVE-2020-10749 PoC](https://github.com/knqyf263/CVE-2020-10749)
+
 
 ## Slides
 
@@ -198,7 +247,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Katacoda Kubernetes Goat Videos](https://katacoda.com/madhuakula/scenarios/kubernetes-goat)
 
-[Attacking and Auditing Docker Containers and Kubernetes Clusters](https://github.com/appsecco/attacking-and-auditing-docker-containers-and-kubernetes-clusters)
+[Attacking and Auditing Docker Containers and Kubernetes Clusters](https://github.com/Kloudle/attacking-and-auditing-docker-containers-and-kubernetes-clusters-training)
 
 [A Cloud Guru Kubernetes Security](https://acloudguru.com/course/kubernetes-security)
 
@@ -208,11 +257,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Control Plane Security Training](https://control-plane.io/training/)
 
-[Kubernetes Exam Simulator](https://killer.sh/cks)
+[Kubernetes CKS Exam Simulator](https://killer.sh/cks)
 
 [Kubernetes Security Workshop](https://github.com/scotty-c/kubernetes-security-workshop)
 
 [Linux Academy - Kubernetes Security](https://github.com/linuxacademy/content-kubernetes-security)
+
+[Mumshad's KodeCloud Certified kubernetes security specialist **cks**](https://kodekloud.com/p/certified-kubernetes-security-specialist-cks)
 
 ## Repositories / Tools
 
@@ -232,13 +283,21 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [CNCF Security Audits](https://github.com/magnologan/cncf-security-audits)
 
+[Kube Security Lab: Learn from Kuberenetes attacks using Ansible and KinD](https://github.com/raesene/kube_security_lab)
+
 ### Attacking
+
+[kubesploit](https://github.com/cyberark/kubesploit)  
+
+[kubeletctl](https://github.com/cyberark/kubeletctl)
 
 [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 [Peirates](https://github.com/inguardians/peirates)
 
 ### Defending
+
+[KubiScan](https://github.com/cyberark/KubiScan)
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 
@@ -284,6 +343,14 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [kubescape](https://github.com/armosec/kubescape)
 
+[KubeLinter](https://github.com/stackrox/kube-linter)
+
+[Open Policy Agent](https://www.openpolicyagent.org)
+
+[Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+
+[Kyverno](https://kyverno.io)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)
@@ -312,17 +379,44 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PodCTL - Enterprise Kubernetes](https://www.podctl.com/)
 
-## Jobs
-
-[Kube Careers](https://kube.careers/)
-
 ## Community
+
+### Slacks
 
 [Kubernetes Slack](https://kubernetes.slack.com)
 
 [CNCF Slack](https://cloud-native.slack.com)
 
 [Kubernetes Canada Slack](https://k8scanadaslack.herokuapp.com/)
+
+### Newsletters
+
+[kubelist](https://kubelist.com/) 
+[LWKD](http://lwkd.info/)
+
+### Jobs
+
+[Kube Careers](https://kube.careers/)
+
+### K8s Managed Services
+
+[AKS](https://docs.microsoft.com/en-us/azure/aks/)
+
+[EKS](https://aws.amazon.com/eks/)
+
+[GKE](https://cloud.google.com/kubernetes-engine/)
+
+### K8s Alternatives
+
+[Docker Swarm](https://docs.docker.com/get-started/swarm-deploy/)
+
+[Apache Mesos](https://mesos.apache.org/)
+
+[HashiCorp Nomad](https://www.nomadproject.io/)
+
+[Red Hat Openshift](https://www.openshift.com/)
+
+### Other Awesome Lists
 
 [kubepwn](https://github.com/alexivkin/kubepwn)
 
@@ -334,23 +428,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [awesome-falco](https://github.com/developer-guy/awesome-falco)
 
-## K8s Managed Services
+[awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
 
-[AKS]()
-
-[EKS]()
-
-[GKE]()
-
-## K8s Alternatives
-
-[Docker Swarm]()
-
-[Apache Mesos]()
-
-[Hashicorp Nomad]()
-
-[Red Hat Openshift]()
+[awesome-opa](https://github.com/anderseknert/awesome-opa)
 
 ## Honk the Planet!
 

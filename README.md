@@ -341,6 +341,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [External Secrets](https://github.com/external-secrets/external-secrets)
 
+[kubescape](https://github.com/armosec/kubescape)
+
 [KubeLinter](https://github.com/stackrox/kube-linter)
 
 [Open Policy Agent](https://www.openpolicyagent.org)
@@ -348,7 +350,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 
 [Kyverno](https://kyverno.io)
-
 
 ## Papers
 

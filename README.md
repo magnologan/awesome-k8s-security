@@ -297,6 +297,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ### Defending
 
+[Kubescape - Kubernetes is deployed securely according to NSA-CISA and the MITRE ATT&CK® frameworks](https://github.com/armosec/kubescape)
+
 [KubiScan](https://github.com/cyberark/KubiScan)
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
@@ -352,6 +354,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kyverno](https://kyverno.io)
 
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
+
 
 ## Papers
 

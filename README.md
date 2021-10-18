@@ -267,8 +267,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Repositories / Tools
 
-[Kubescape - Kubernetes is deployed securely according to NSA-CISA and the MITRE ATT&CK® frameworks](https://github.com/armosec/kubescape)
-
 ### Learning
 
 [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
@@ -298,6 +296,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Peirates](https://github.com/inguardians/peirates)
 
 ### Defending
+
+[Kubescape - Kubernetes is deployed securely according to NSA-CISA and the MITRE ATT&CK® frameworks](https://github.com/armosec/kubescape)
 
 [KubiScan](https://github.com/cyberark/KubiScan)
 

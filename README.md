@@ -224,6 +224,15 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [CVE-2020-10749 PoC](https://github.com/knqyf263/CVE-2020-10749)
 
+[CVE-2021-25735](https://nvd.nist.gov/vuln/detail/CVE-2021-25735)
+
+[CVE-2021-25737](https://nvd.nist.gov/vuln/detail/CVE-2021-25737)
+
+[CVE-2021-25740](https://nvd.nist.gov/vuln/detail/CVE-2021-25740)
+
+[CVE-2021-25741](https://nvd.nist.gov/vuln/detail/CVE-2021-25741)
+
+
 
 ## Slides
 

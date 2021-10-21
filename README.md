@@ -210,19 +210,30 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Exploring container security: Vulnerability management in open-source Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-vulnerability-management-in-open-source-kubernetes)
 
-[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264)
+[CVE-2018-18264](https://nvd.nist.gov/vuln/detail/CVE-2018-18264) - Kubernetes Dashboard bypass authentication
 
-[CVE-2019-11247](https://nvd.nist.gov/vuln/detail/CVE-2019-11247)
+[CVE-2019-11247](https://nvd.nist.gov/vuln/detail/CVE-2019-11247) - kube-apiserver mistakenly allows access to a cluster-scoped custom resource
 
-[CVE-2019-11249](https://nvd.nist.gov/vuln/detail/CVE-2019-11249)
+[CVE-2019-11249](https://nvd.nist.gov/vuln/detail/CVE-2019-11249) - kubectl cp command tar exploit
 
-[CVE-2020-8558 PoC](https://github.com/tabbysable/POC-2020-8558)
+[CVE-2020-8558 PoC](https://github.com/tabbysable/POC-2020-8558) -  kube-proxy unexpectedly makes localhost-bound host services available to others on the network
 
-[CVE-2020-8559 PoC](https://github.com/tabbysable/POC-2020-8559)
+[CVE-2020-8559 PoC](https://github.com/tabbysable/POC-2020-8559) - kube-apiserver vulnerable to an unvalidated redirect on proxied upgrade requests 
 
-[CVE-2020-8559 PoC 2](https://github.com/tdwyer/CVE-2020-8559)
+[CVE-2020-8559 PoC 2](https://github.com/tdwyer/CVE-2020-8559) - kube-apiserver vulnerable to an unvalidated redirect on proxied upgrade requests 
 
-[CVE-2020-10749 PoC](https://github.com/knqyf263/CVE-2020-10749)
+[CVE-2020-10749 PoC](https://github.com/knqyf263/CVE-2020-10749) - malicious containers in Kubernetes clusters to perform man-in-the-middle (MitM) attacks
+
+[CVE-2021-25735](https://nvd.nist.gov/vuln/detail/CVE-2021-25735) - kube-apiserver allow node updates to bypass a Validating Admission Webhook
+
+[CVE-2021-25737](https://nvd.nist.gov/vuln/detail/CVE-2021-25737) - user may be able to redirect pod traffic to private networks on a node
+
+[CVE-2021-25740](https://nvd.nist.gov/vuln/detail/CVE-2021-25740) -  enable users to send network traffic to locations they would otherwise not have access to via a confused deputy attack
+
+[CVE-2021-25741](https://nvd.nist.gov/vuln/detail/CVE-2021-25741) - user may be able to create a container with subpath volume mounts to access files & directories outside of the volume
+
+[CVE-2021-30465](https://nvd.nist.gov/vuln/detail/CVE-2021-30465) - runc container filesystem breakout via directory traversal
+
 
 
 ## Slides

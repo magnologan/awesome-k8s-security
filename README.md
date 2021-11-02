@@ -366,6 +366,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kyverno](https://kyverno.io)
 
+[Kubewarden](https://kubewarden.io)
+
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
 
 

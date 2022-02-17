@@ -186,6 +186,12 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubernetes in Action, Second Edition by Marko Lukša](https://www.manning.com/books/kubernetes-in-action-second-edition)
 
+[Google Anthos by Antonio Gulli et al.](https://www.manning.com/books/google-anthos-in-action)
+
+[Kubernetes for Developers by William Denniss](https://www.manning.com/books/kubernetes-for-developers)
+
+[Kubernetes on Windows by Jay Vyas and James Sturtevant](https://www.manning.com/books/kubernetes-on-windows)
+
 ## Certifications
 
 - [CKAD](https://www.cncf.io/certification/ckad/)

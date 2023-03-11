@@ -172,6 +172,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Managing Kubernetes without losing your cool](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/)
 
+[Kubernetes: Detailed security assessment guidelines and necessary checklist](https://medium.com/@seifeddinerajhi/kubernetes-security-assessment-guidelines-and-necessary-checklist-9a326f341b68)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)

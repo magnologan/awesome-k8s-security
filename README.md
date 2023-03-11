@@ -158,7 +158,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
 
-[Protecting Kubernetes: The Kubernetes Attack Matrix and How to Mitigate Its Threats](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Whitepaper-Kubernetes_Attack_Matrix_and_Mitigation.pdf)
+[Protecting Kubernetes: The Kubernetes Attack Matrix and How to Mitigate Its Threats](https://web.archive.org/web/20210827104409/https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Whitepaper-Kubernetes_Attack_Matrix_and_Mitigation.pdf)
 
 [Securing the 4Cs of Cloud Native](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code)
 
@@ -171,6 +171,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [A Beginner-Friendly Introduction to Kubernetes](https://towardsdatascience.com/a-beginner-friendly-introduction-to-kubernetes-540b5d63b3d7)
 
 [Managing Kubernetes without losing your cool](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/)
+
+[Kubernetes: Detailed security assessment guidelines and necessary checklist](https://medium.com/@seifeddinerajhi/kubernetes-security-assessment-guidelines-and-necessary-checklist-9a326f341b68)
 
 ## Books
 
@@ -199,6 +201,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes on Windows by Jay Vyas and James Sturtevant](https://www.manning.com/books/kubernetes-on-windows)
 
 [Core Kubernetes by Chris Love](https://www.manning.com/books/core-kubernetes)
+
+[Kubernetes Security with M9sweeper](https://www.amazon.com/-/es/Jacob-Beasley/dp/B0BT6RHGR3)
 
 ## Certifications
 
@@ -310,11 +314,13 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ### Attacking
 
-[kubesploit](https://github.com/cyberark/kubesploit)  
+[kdigger](https://github.com/quarkslab/kdigger)
+
+[kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 [kubeletctl](https://github.com/cyberark/kubeletctl)
 
-[kube-hunter](https://github.com/aquasecurity/kube-hunter)
+[kubesploit](https://github.com/cyberark/kubesploit)  
 
 [Peirates](https://github.com/inguardians/peirates)
 
@@ -383,6 +389,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
 
 [cnspec - cloud-native security and policy project](https://cnspec.io)
+
+[M9sweeper - Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)
 
 ## Papers
 

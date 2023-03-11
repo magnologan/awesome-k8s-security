@@ -388,8 +388,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
 
-[M9sweeper - Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)
+[cnspec - cloud-native security and policy project](https://cnspec.io)
 
+[M9sweeper - Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)
 
 ## Papers
 

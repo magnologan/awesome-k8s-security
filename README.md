@@ -158,7 +158,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Amazon EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
 
-[Protecting Kubernetes: The Kubernetes Attack Matrix and How to Mitigate Its Threats](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Whitepaper-Kubernetes_Attack_Matrix_and_Mitigation.pdf)
+[Protecting Kubernetes: The Kubernetes Attack Matrix and How to Mitigate Its Threats](https://web.archive.org/web/20210827104409/https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Whitepaper-Kubernetes_Attack_Matrix_and_Mitigation.pdf)
 
 [Securing the 4Cs of Cloud Native](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code)
 

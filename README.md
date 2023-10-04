@@ -326,6 +326,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ### Defending
 
+[KubeArmor - Cloud-native runtime protection](https://github.com/kubearmor/KubeArmor)
+
 [Kubescape - Kubernetes is deployed securely according to NSA-CISA and the MITRE ATT&CK® frameworks](https://github.com/armosec/kubescape)
 
 [KubiScan](https://github.com/cyberark/KubiScan)

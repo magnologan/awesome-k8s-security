@@ -214,6 +214,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [CKS](https://www.cncf.io/certification/cks/)
 
+- [Certified Cloud Native Security Expert - CCNSE](https://www.practical-devsecops.com/certified-cloud-native-security-expert/)
+
+- [Certified Container Security Expert - CCSE](https://www.practical-devsecops.com/certified-container-security-expert/)
+
 - [Certified Kubernetes Security Specialist (CKS)](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
 - [CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist)
@@ -271,6 +275,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Security (Advanced Concepts)](https://acloudguru.com/course/kubernetes-security-advanced-concepts)
 
 [Kubernetes Goat Guide](https://madhuakula.com/kubernetes-goat/)
+
+[Certified Cloud Native Security Expert - CCNSE by Practical DevSecOps](https://www.practical-devsecops.com/certified-cloud-native-security-expert/)
+
+[Certified Container Security Expert - CCSE by Practical DevSecOps](https://www.practical-devsecops.com/certified-container-security-expert/)
+
 
 [Katacoda Kubernetes Goat Videos](https://katacoda.com/madhuakula/scenarios/kubernetes-goat)
 

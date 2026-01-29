@@ -379,6 +379,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [rakkess](https://github.com/corneliusweig/rakkess)
 
+[nullsec-k8sscan - Kubernetes security scanner for RBAC, network policies, pod security, and secrets management](https://github.com/bad-antics/nullsec-k8sscan)
+
 [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
 
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)

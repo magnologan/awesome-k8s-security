@@ -339,6 +339,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kubescape - Kubernetes is deployed securely according to NSA-CISA and the MITRE ATT&CK® frameworks](https://github.com/armosec/kubescape)
 
+[segspec - Extract network dependencies from app configs and generate Kubernetes NetworkPolicies](https://github.com/dormstern/segspec)
+
 [KubiScan](https://github.com/cyberark/KubiScan)
 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)

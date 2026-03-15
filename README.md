@@ -208,11 +208,17 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [CKAD](https://www.cncf.io/certification/ckad/)
 
+- [CKAD Self-Study Course](https://rx-m.com/ckad-online-self-study-training-certification/) - free course to practice for the CKAD exam
+
 - [CKA](https://www.cncf.io/certification/cka/)
 
 - [Certified Kubernetes Administrator (CKA) Course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)
 
+- [CKA Self-Study Course](https://rx-m.com/cka-online-training/) - free course to practice for the CKA exam
+
 - [CKS](https://www.cncf.io/certification/cks/)
+
+- [CKS Self-Study Course](https://rx-m.com/cks-self-study-course/) - free course to practice for the CKS exam
 
 - [Certified Cloud Native Security Expert - CCNSE](https://www.practical-devsecops.com/certified-cloud-native-security-expert/)
 

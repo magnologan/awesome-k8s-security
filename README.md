@@ -352,6 +352,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 [falco](https://github.com/falcosecurity/falco)
 
 [kubesec](https://github.com/controlplaneio/kubesec)
+[ReleaseRun K8s YAML Security Linter - Paste any Kubernetes manifest for an instant A-F security grade with 12 checks: resource limits, runAsNonRoot, privilege escalation, hardcoded secrets, host networking and more](https://releaserun.com/tools/kubernetes-security-linter/)
 
 [kube-bench](https://github.com/aquasecurity/kube-bench)
 

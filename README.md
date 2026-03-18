@@ -352,7 +352,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 
 [kubeaudit](https://github.com/Shopify/kubeaudit)
-[Audit Radar](https://github.com/vsenatorov/auditvision) - Real-time audit log explorer for OpenShift and Kubernetes with AI risk scoring, login tracking, and webhook alerts
 
 [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 
@@ -415,6 +414,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [ReleaseRun K8s Deprecation Checker](https://releaserun.com/tools/k8s-deprecation-checker/)
 
 [ReleaseRun K8s YAML Security Linter](https://releaserun.com/tools/kubernetes-security-linter/)
+
+[Audit Radar](https://github.com/vsenatorov/auditvision)
 
 ## Papers
 

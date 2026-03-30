@@ -355,6 +355,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 
+[Defensia - WAF, intrusion detection, and automated blocking for Kubernetes nodes and Linux servers](https://github.com/defensia/agent)
+
 [falco](https://github.com/falcosecurity/falco)
 
 [kubesec](https://github.com/controlplaneio/kubesec)

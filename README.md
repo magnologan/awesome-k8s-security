@@ -206,6 +206,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 ## Certifications
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [CKAD](https://www.cncf.io/certification/ckad/)
 
 - [CKAD Self-Study Course](https://rx-m.com/ckad-online-self-study-training-certification/) - free course to practice for the CKAD exam
@@ -230,6 +231,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 - [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [References for CKS Exam Objectives](https://github.com/abdennour/certified-kubernetes-security-specialist)
 
 ## CVEs

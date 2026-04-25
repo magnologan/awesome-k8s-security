@@ -423,6 +423,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [BunkerWeb - Open-source WAF/WAAP, reverse proxy, and Kubernetes Ingress/Gateway API controller for securing web applications and APIs](https://github.com/bunkerity/bunkerweb)
 
+[KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with compliance dashboards for Falco, OPA/Gatekeeper, and Kyverno. Real-time security observability across hybrid edge and cloud environments. CNCF Sandbox project.
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)

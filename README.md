@@ -372,6 +372,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 [kube-forensics](https://github.com/keikoproj/kube-forensics)
 
 [k8s-security-dashboard](https://github.com/k8scop/k8s-security-dashboard)
+[KubeStellar Console - Multi-cluster Kubernetes dashboard with supply chain security, SBOM, and compliance](https://github.com/kubestellar/console)
 
 [CIS Kubernetes Benchmark - InSpec Profile](https://github.com/dev-sec/cis-kubernetes-benchmark)
 

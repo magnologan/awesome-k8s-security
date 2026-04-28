@@ -409,6 +409,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
 
+[MANTIS IaC Scanner - Browser-based Kubernetes manifest misconfig scanner; rule engine runs entirely client-side, no upload, no signup](https://mantiscore.ai/free-tools/iac-scan)
+
 [cnspec - cloud-native security and policy project](https://cnspec.io)
 
 [M9sweeper - Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)

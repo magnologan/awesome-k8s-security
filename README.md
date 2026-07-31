@@ -188,6 +188,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Mitigating the Threat of Sidecar Container Injection](https://www.trendmicro.com/vinfo/us/security/news/security-technology/mitigating-the-threat-of-sidecar-container-injection)
 
+[Abusing Argo CD, Helm, and Artifact Hub: An Analysis of Supply Chain Attacks in Cloud-Native Applications](https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/abusing-argo-cd-helm-and-artifact-hub-an-analysis-of-supply-chain-attacks-in-cloud-native-applications)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)

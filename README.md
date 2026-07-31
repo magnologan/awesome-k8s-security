@@ -144,7 +144,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [The Basics of Keeping Kubernetes Cluster Secure: Worker Nodes and Related Components](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/the-basics-of-keeping-kubernetes-cluster-secure-worker-nodes-and-related-components)
 
-[How to Secure Your Kubernetes Cluster](https://containerjournal.com/topics/container-security/how-to-secure-your-kubernetes-cluster/)
+[How to Secure Your Kubernetes Cluster](https://cloudnativenow.com/topics/cloudnativesecurity/how-to-secure-your-kubernetes-cluster/)
 
 [Kubernetes Security 101: Best Practices To Secure Your Cluster](https://www.devseccon.com/kubernetes-security-101-best-practices-to-secure-your-cluster-secadvent-day-17/)
 
@@ -173,6 +173,20 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Managing Kubernetes without losing your cool](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/)
 
 [Kubernetes: Detailed security assessment guidelines and necessary checklist](https://medium.com/@seifeddinerajhi/kubernetes-security-assessment-guidelines-and-necessary-checklist-9a326f341b68)
+
+[TeamTNT Targets Kubernetes, Nearly 50,000 IPs Compromised in Worm-like Attack](https://www.trendmicro.com/en_us/research/21/e/teamtnt-targets-kubernetes--nearly-50-000-ips-compromised.html)
+
+[Protecting Your Krew: A Security Analysis of kubectl Plug-ins](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/protecting-your-krew-a-security-analysis-of-kubectl-plug-ins)
+
+[The Fault in Our Kubelets: Analyzing the Security of Publicly Exposed Kubernetes Clusters](https://www.trendmicro.com/en_us/research/22/e/the-fault-in-our-kubelets-analyzing-the-security-of-publicly-exposed-kubernetes-clusters.html)
+
+[A Deep Dive Into Kubernetes Threat Modeling](https://www.trendmicro.com/vinfo/us/security/news/security-technology/a-deep-dive-into-kubernetes-threat-modeling)
+
+[Enhancing Software Supply-Chain Security: Navigating SLSA Standards and the MITRE ATT&CK Framework](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/enhancing-software-supply-chain-security-navigating-slsa-standards-and-the-mitre-att-and-ck-framework)
+
+[Understanding the Kubernetes Security Triad: Image Scanning, Admission Controllers, and Runtime Security](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/understanding-the-kubernetes-security-triad-image-scanning-admission-controllers-and-runtime-security)
+
+[Mitigating the Threat of Sidecar Container Injection](https://www.trendmicro.com/vinfo/us/security/news/security-technology/mitigating-the-threat-of-sidecar-container-injection)
 
 ## Books
 

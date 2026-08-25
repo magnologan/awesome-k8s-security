@@ -415,6 +415,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KubeLinter](https://github.com/stackrox/kube-linter)
 
+[Cubzi - Lints Kubernetes manifests for security/reliability issues and estimates their monthly cloud cost before you deploy](https://cubzi.cloud)
+
 [Open Policy Agent](https://www.openpolicyagent.org)
 
 [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)

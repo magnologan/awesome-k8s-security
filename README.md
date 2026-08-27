@@ -343,6 +343,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kube Security Lab: Learn from Kuberenetes attacks using Ansible and KinD](https://github.com/raesene/kube_security_lab)
 
+[OCP Pipeline Lab: Learn enterprise OpenShift supply-chain controls — CRQ gate, unprivileged buildah, manual promotion — on one laptop](https://github.com/ryanGTR/ocp-pipeline-lab)
+
 ### Attacking
 
 [kdigger](https://github.com/quarkslab/kdigger)

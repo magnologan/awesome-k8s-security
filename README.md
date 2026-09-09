@@ -411,6 +411,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [External Secrets](https://github.com/external-secrets/external-secrets)
 
+[Myelin](https://github.com/akashbhujbalwebsite/myelin) - Kubernetes operator for Git-safe secret encryption and automatic per-secret RBAC reconciliation with continuous drift correction.
+
 [kubescape](https://github.com/armosec/kubescape)
 
 [KubeLinter](https://github.com/stackrox/kube-linter)

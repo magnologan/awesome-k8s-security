@@ -443,6 +443,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PII-Shield - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs](https://github.com/pii-shield/pii-shield)
 
+[Cloud Security Audit Scripts - Pre-audit cloud security assessment scripts for AWS, GCP, and Azure covering IAM, networking, encryption, logging, and backup configurations](https://github.com/TrazTech-Inc/cloud-security-audit-scripts)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)

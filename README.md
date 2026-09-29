@@ -190,6 +190,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Abusing Argo CD, Helm, and Artifact Hub: An Analysis of Supply Chain Attacks in Cloud-Native Applications](https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/abusing-argo-cd-helm-and-artifact-hub-an-analysis-of-supply-chain-attacks-in-cloud-native-applications)
 
+[Falco vs Tetragon: What to Evaluate for Runtime Security](https://primod.io/blog/falco-vs-tetragon)
+
+[SBOMs and VEX Still Need Runtime Context in Kubernetes](https://primod.io/blog/sbom-vex-runtime-context-kubernetes)
+
 ## Books
 
 [Hacking Kubernetes by Andrew Martin, Michael Hausenblas](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/)

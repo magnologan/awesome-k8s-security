@@ -379,6 +379,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [kube-bench](https://github.com/aquasecurity/kube-bench)
 
+[Draugr - Checks a live cluster against the CIS Benchmark, natively or through kube-bench, scans the images a namespace runs, and ranks each finding by the component's exposure and criticality](https://github.com/draugr-dev/draugr)
+
 [trivy](https://github.com/aquasecurity/trivy)
 
 [MKIT](https://github.com/darkbitio/mkit)

@@ -323,6 +323,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Mumshad's KodeCloud Certified kubernetes security specialist **cks**](https://kodekloud.com/p/certified-kubernetes-security-specialist-cks)
 
+[RansomLeak Container Security Labs](https://ransomleak.com/catalogue/cloud-security/)
+
 ## Repositories / Tools
 
 ### Learning

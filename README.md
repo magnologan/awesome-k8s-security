@@ -343,6 +343,10 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kube Security Lab: Learn from Kuberenetes attacks using Ansible and KinD](https://github.com/raesene/kube_security_lab)
 
+[Pwned Labs - Exploit Kubernetes Overly Permissive RBAC](https://pwnedlabs.io/explore/exploit-kubernetes-overly-permissive-rbac) - Free hosted lab, no cluster needed
+
+[Pwned Labs - Secure Kubernetes using OPA Gatekeeper](https://pwnedlabs.io/explore/secure-kubernetes-using-opa-gatekeeper) - Free hosted lab, no cluster needed
+
 ### Attacking
 
 [kdigger](https://github.com/quarkslab/kdigger)

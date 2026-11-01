@@ -445,6 +445,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [k8s-audit - Fast, dependency-light Kubernetes security audit using only kubectl and jq, mapped to a 50-point checklist](https://github.com/k8s-security-pro/k8s-audit)
 
+[k8s-security-audit - Claude skill that runs a read-only Kubernetes security audit and returns prioritized YAML fixes mapped to CIS, SOC 2 and ISO 27001](https://github.com/k8s-security-pro/k8s-audit-skill)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)

@@ -343,7 +343,11 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Kube Security Lab: Learn from Kuberenetes attacks using Ansible and KinD](https://github.com/raesene/kube_security_lab)
 
+[OCP Pipeline Lab: Learn enterprise OpenShift supply-chain controls — CRQ gate, unprivileged buildah, manual promotion — on one laptop](https://github.com/ryanGTR/ocp-pipeline-lab)
+
 ### Attacking
+
+[Darkmoon](https://github.com/ASCIT31/Dark-Moon)
 
 [kdigger](https://github.com/quarkslab/kdigger)
 
@@ -378,6 +382,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 [kubesec](https://github.com/controlplaneio/kubesec)
 
 [kube-bench](https://github.com/aquasecurity/kube-bench)
+
+[Draugr - Checks a live cluster against the CIS Benchmark, natively or through kube-bench, scans the images a namespace runs, and ranks each finding by the component's exposure and criticality](https://github.com/draugr-dev/draugr)
 
 [trivy](https://github.com/aquasecurity/trivy)
 
@@ -444,6 +450,16 @@ To understand about Kubernetes Security you first need to understand the basics 
 [PII-Shield - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs](https://github.com/pii-shield/pii-shield)
 
 [DepGate - Self-hosted dependency firewall with a Helm chart that blocks malicious npm, PyPI, Maven and Go packages before they reach your cluster builds](https://github.com/secmods/depgate)
+
+[Aegis-DevOps - Checks AI agents' kubectl, Terraform and cloud CLI commands against signed, authority-checked policy before they run](https://github.com/moneytool/aegis-devops)
+
+[PerspectiveGraph - Attack paths across Kubernetes RBAC, cloud IAM and scanner findings, flagged in the pull request that opens them](https://github.com/luiacuaniello/perspectivegraph)
+
+[cosign-verify-init](https://github.com/fabiocicerchia/cosign-verify-init) - Kubernetes init container that verifies cosign image signatures before the workload starts.
+
+[rbac-auditor](https://github.com/fabiocicerchia/rbac-auditor) - Dumps and diffs Kubernetes RBAC: wildcard grants, cluster-admin bindings, unused SAs, who-can queries.
+
+[Runtime Radar - An open-source solution for monitoring runtime security events in containerized environments](https://github.com/Runtime-Radar/runtime-radar)
 
 ## Papers
 

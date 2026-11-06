@@ -447,6 +447,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PII-Shield - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs](https://github.com/pii-shield/pii-shield)
 
+[rbac-auditor](https://github.com/fabiocicerchia/rbac-auditor) - Dumps and diffs Kubernetes RBAC: wildcard grants, cluster-admin bindings, unused SAs, who-can queries.
+
 [Runtime Radar - An open-source solution for monitoring runtime security events in containerized environments](https://github.com/Runtime-Radar/runtime-radar)
 
 ## Papers

@@ -447,6 +447,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [PII-Shield - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs](https://github.com/pii-shield/pii-shield)
 
+[Aegis-DevOps - Checks AI agents' kubectl, Terraform and cloud CLI commands against signed, authority-checked policy before they run](https://github.com/moneytool/aegis-devops)
+
 [PerspectiveGraph - Attack paths across Kubernetes RBAC, cloud IAM and scanner findings, flagged in the pull request that opens them](https://github.com/luiacuaniello/perspectivegraph)
 
 [cosign-verify-init](https://github.com/fabiocicerchia/cosign-verify-init) - Kubernetes init container that verifies cosign image signatures before the workload starts.

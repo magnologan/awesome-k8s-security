@@ -413,6 +413,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
 
+[Kubesplaining - Builds multi-hop RBAC privilege-escalation paths from each subject to cluster-admin, node escape and kube-system secrets, with the evidence and remediation for each step, as HTML, JSON, CSV and SARIF reports](https://github.com/0hardik1/kubesplaining)
+
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 
 [External Secrets](https://github.com/external-secrets/external-secrets)

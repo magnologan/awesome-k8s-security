@@ -463,6 +463,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Runtime Radar - An open-source solution for monitoring runtime security events in containerized environments](https://github.com/Runtime-Radar/runtime-radar)
 
+[KestreLynx - Scans the images of running workloads with Trivy and creates pull requests that update image tags in Kubernetes manifests, Kustomize, and Helm values to fixed versions](https://github.com/kitsunetrail/kestrelynx)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)

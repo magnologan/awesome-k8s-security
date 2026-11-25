@@ -463,6 +463,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Runtime Radar - An open-source solution for monitoring runtime security events in containerized environments](https://github.com/Runtime-Radar/runtime-radar)
 
+[Protem - Just-in-time privileged access for Kubernetes: time-bound, approval-gated RBAC across clusters, removed automatically when it expires](https://github.com/iLLeniumStudios/protem)
+
 ## Papers
 
 [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)
